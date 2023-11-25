@@ -1,4 +1,7 @@
- <a href="https://www.primeitclub.com/about"><img src="https://raw.githubusercontent.com/primeitclub/.github/main/logo%20club.png" height="100"></a>
+<p align="center">
+   <a href="https://www.primeitclub.com/about"><img src="https://raw.githubusercontent.com/primeitclub/.github/main/logo%20club.png" height="100"></a>
+</p>
+
  
 # [Prime IT Club](https://www.primeitclub.com/about)
 
